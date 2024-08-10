@@ -1,0 +1,41 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  background: radial-gradient(circle, #e5e78b, #ed8e9d);
+  padding: 10px;
+  color: black;
+  
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.brand {
+  font-weight: bold;
+  width: 20%;
+  text-align: center;
+  font-size: 1.5rem;
+  text-decoration: none;
+  
+}
+.search-bar {
+  width: 60%;
+}
+.search-bar input {
+  width: 60%;
+  border-radius: 8px;
+  border: transparent;
+}
+
+.cart {
+  width: 20%;
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+.nav-bar-wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background:radial-gradient(circle, #e8ea92, #8eaff5);
+    color: black;
+    font-weight: 450;
+}
