@@ -38,4 +38,5 @@
     background:radial-gradient(circle, #e8ea92, #8eaff5);
     color: black;
     font-weight: 450;
+    cursor: pointer;
 }

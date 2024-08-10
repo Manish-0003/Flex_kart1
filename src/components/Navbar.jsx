@@ -53,6 +53,7 @@ const Navbar = ({ setData, cart }) => {
             </button>
           </Link>
         </div>
+        
         {location.pathname == "/" && (
         <div className="nav-bar-wrapper">
           <div className="items">
